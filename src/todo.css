@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#wrapper{
+    padding: 1% 2%;
+}
+.values{
+    display: flex;
+}
+.values p{
+    margin: 1%;
+}
